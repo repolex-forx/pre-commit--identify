@@ -1,0 +1,11 @@
+{
+  "org": "pre-commit",
+  "repo": "identify",
+  "versions": [
+    {
+      "commit": "28ae3106d2979b86ce674940d44c07e1dbed1a89",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:42:24.871819+00:00"
+    }
+  ]
+}
